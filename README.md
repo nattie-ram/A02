@@ -66,7 +66,10 @@
 - **Remote:** The online repository hosted on a platform like GitHub.
 - **Repository:** A storage location for code and version history, either local or on a remote platform like GitHub.
 
-
+## References 
+- Git Documentation :-> https://git-scm.com/doc
+- GitHub Documentation :-> https://docs.github.com/en
+- WebStrom Documentation :-> https://www.jetbrains.com/help/webstorm/ 
 
 
   
