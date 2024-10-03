@@ -51,3 +51,29 @@
 1. If there are any merge conflicts ( when Git can't automatically combine changes from two branches), WebStorm will highlight the conflicts
 2. Resolve the conflict by reviewing the changes and choosing which version to keep.
 3. Commit the resolved files once the conflict is handled 
+
+## Part Two 
+- **Branch:** A parallel version of the repository, created to work on different features without affecting the main codebase.
+- **Clone:** A copy of a GitHub repository that is downloaded to your local machine.
+- **Commit:** A record of changes made to the repository, with a message describing the update.
+- **Fetch:** Downloads updates from a remote repository without integrating them into your local code.
+- **GIT:** A version control system used to track changes in source code during software development.
+- **Github:** A platform for hosting and managing Git repositories online, providing features like collaboration and code review.
+- **Merge:** Combining changes from one branch into another.
+- **Merge Conflict:** Occurs when changes in different branches cannot be automatically combined and need manual resolution.
+- **Push:** Sending your local repository updates to the remote repository on GitHub.
+- **Pull:** Fetching and integrating changes from a remote repository into your local copy.
+- **Remote:** The online repository hosted on a platform like GitHub.
+- **Repository:** A storage location for code and version history, either local or on a remote platform like GitHub.
+
+
+
+
+  
+ 
+
+
+
+
+
+
